@@ -1,0 +1,12 @@
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\bin\Debug\net5.0\ZhaoXi.LearnProject.Interface.deps.json
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\bin\Debug\net5.0\ZhaoXi.LearnProject.Interface.dll
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\bin\Debug\net5.0\ref\ZhaoXi.LearnProject.Interface.dll
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\bin\Debug\net5.0\ZhaoXi.LearnProject.Interface.pdb
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.csproj.AssemblyReference.cache
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.AssemblyInfoInputs.cache
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.AssemblyInfo.cs
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.csproj.CoreCompileInputs.cache
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.dll
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ref\ZhaoXi.LearnProject.Interface.dll
+D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Interface\obj\Debug\net5.0\ZhaoXi.LearnProject.Interface.pdb
