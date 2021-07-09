@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1HXfq88uToCCL2yub2PZq/8nf2UVmP2rk/suJ6tUM6Kd94u4HjROvy5Yo7KNUn3eijUg47OWKveWd9HZ7+umUg==",
+  "dgSpecHash": "e2qG1L/egLqn9eXg3hpFllaD6pubfqHOc+ufa91NwkRDX3MDagCBv8QhCtK/YZ8dvEuqNWScKSD+KqLjKNf2hA==",
   "success": true,
-  "projectFilePath": "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXiLearnProject.OcelotGateWay\\ZhaoXiLearnProject.OcelotGateWay.csproj",
+  "projectFilePath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXiLearnProject.OcelotGateWay\\ZhaoXiLearnProject.OcelotGateWay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38103\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\38103\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.0\\microsoft.aspnetcore.jsonpatch.5.0.0.nupkg.sha512",

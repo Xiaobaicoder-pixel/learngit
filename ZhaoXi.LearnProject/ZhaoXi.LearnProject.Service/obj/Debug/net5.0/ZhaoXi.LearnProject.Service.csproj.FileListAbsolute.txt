@@ -10,3 +10,11 @@ D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\n
 D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.dll
 D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ref\ZhaoXi.LearnProject.Service.dll
 D:\code\Asp.Net Core\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.pdb
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.csproj.AssemblyReference.cache
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.AssemblyInfoInputs.cache
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.AssemblyInfo.cs
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.csproj.CoreCompileInputs.cache
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.dll
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ref\ZhaoXi.LearnProject.Service.dll
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Service\obj\Debug\net5.0\ZhaoXi.LearnProject.Service.pdb

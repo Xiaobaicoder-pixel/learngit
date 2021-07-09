@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rIXiuEDpM4MZ3kK/jElolzGQJTKTBZKgyAcoCtbOwOgbWTcwvTGtuP4T+8gjAflUSqFi4+VGoedAmnUTynWSgw==",
+  "dgSpecHash": "qmFXFprWVK5rdu9p21U1l4nFCeXUz4lAmCT/uqNXMqJwm/dFtEtCaF5hKBfM6AksYRom5yavE5u+gfQWXOgr0w==",
   "success": true,
-  "projectFilePath": "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Core\\ZhaoXi.LearnProject.Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Core\\ZhaoXi.LearnProject.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38103\\.nuget\\packages\\aliyun-net-sdk-core\\1.5.10\\aliyun-net-sdk-core.1.5.10.nupkg.sha512",
+    "C:\\Users\\38103\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\38103\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\38103\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

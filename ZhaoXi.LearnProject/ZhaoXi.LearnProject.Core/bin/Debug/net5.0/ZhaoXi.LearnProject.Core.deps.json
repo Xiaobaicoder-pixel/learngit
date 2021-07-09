@@ -1,0 +1,158 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZhaoXi.LearnProject.Core/1.0.0": {
+        "dependencies": {
+          "RabbitMQ.Client": "6.2.2",
+          "ZhaoXi.LearnProject.Common": "1.0.0",
+          "aliyun-net-sdk-core": "1.5.10",
+          "Microsoft.Bcl.AsyncInterfaces": "1.0.0.0",
+          "ServiceStack.Common": "5.0.0.0",
+          "ServiceStack.Interfaces": "5.0.0.0",
+          "ServiceStack.Redis": "5.0.0.0",
+          "ServiceStack.Text": "5.0.0.0"
+        },
+        "runtime": {
+          "ZhaoXi.LearnProject.Core.dll": {}
+        }
+      },
+      "aliyun-net-sdk-core/1.5.10": {
+        "runtime": {
+          "lib/netstandard2.0/aliyun-net-sdk-core.dll": {
+            "assemblyVersion": "1.5.10.0",
+            "fileVersion": "1.5.10.0"
+          }
+        }
+      },
+      "RabbitMQ.Client/6.2.2": {
+        "dependencies": {
+          "System.Memory": "4.5.4",
+          "System.Threading.Channels": "4.7.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/RabbitMQ.Client.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.2.2.0"
+          }
+        }
+      },
+      "System.Memory/4.5.4": {},
+      "System.Threading.Channels/4.7.1": {},
+      "ZhaoXi.LearnProject.Common/1.0.0": {
+        "runtime": {
+          "ZhaoXi.LearnProject.Common.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.0.0.0": {
+        "runtime": {
+          "Microsoft.Bcl.AsyncInterfaces.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "ServiceStack.Common/5.0.0.0": {
+        "runtime": {
+          "ServiceStack.Common.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.10.5.0"
+          }
+        }
+      },
+      "ServiceStack.Interfaces/5.0.0.0": {
+        "runtime": {
+          "ServiceStack.Interfaces.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.10.5.0"
+          }
+        }
+      },
+      "ServiceStack.Redis/5.0.0.0": {
+        "runtime": {
+          "ServiceStack.Redis.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.10.5.0"
+          }
+        }
+      },
+      "ServiceStack.Text/5.0.0.0": {
+        "runtime": {
+          "ServiceStack.Text.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.10.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZhaoXi.LearnProject.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "aliyun-net-sdk-core/1.5.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QJfZdf3cQZEeudq2SDASJEJbl8D80p7YsGFZrrcFDba+1jsSeUT+oR0XoU4MdEF9kHr8mC6HoOsS5aioeMVQqw==",
+      "path": "aliyun-net-sdk-core/1.5.10",
+      "hashPath": "aliyun-net-sdk-core.1.5.10.nupkg.sha512"
+    },
+    "RabbitMQ.Client/6.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+tJSgE+rQXgLvOxWvOxdZ0+No1EMa86+puZuNlCb4cNryHw2PY2Xiw/y2dz/WWdeJQp74Y2UnNXPkuLiYpvn+A==",
+      "path": "rabbitmq.client/6.2.2",
+      "hashPath": "rabbitmq.client.6.2.2.nupkg.sha512"
+    },
+    "System.Memory/4.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1MbJTHS1lZ4bS4FmsJjnuGJOu88ZzTT2rLvrhW7Ygic+pC0NWA+3hgAen0HRdsocuQXCkUTdFn9yHJJhsijDXw==",
+      "path": "system.memory/4.5.4",
+      "hashPath": "system.memory.4.5.4.nupkg.sha512"
+    },
+    "System.Threading.Channels/4.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6akRtHK/wab3246t4p5v3HQrtQk8LboOt5T4dtpNgsp3zvDeM4/Gx8V12t0h+c/W9/enUrilk8n6EQqdQorZAA==",
+      "path": "system.threading.channels/4.7.1",
+      "hashPath": "system.threading.channels.4.7.1.nupkg.sha512"
+    },
+    "ZhaoXi.LearnProject.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack.Common/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack.Interfaces/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack.Redis/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServiceStack.Text/5.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

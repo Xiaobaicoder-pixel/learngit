@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj": {}
+    "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj": {}
   },
   "projects": {
-    "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj": {
+    "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj",
+        "projectUniqueName": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj",
         "projectName": "ZhaoXi.LearnProject.Model",
-        "projectPath": "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj",
+        "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj",
         "packagesPath": "C:\\Users\\38103\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\obj\\",
+        "outputPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

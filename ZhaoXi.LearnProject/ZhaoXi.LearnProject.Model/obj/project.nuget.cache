@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/wndJgLDwFtA76WUoI0gjaTbc9dtkuxZiPQqKeukdlyvXi3ovv/LH8qZh04OoW1RzuKUDZSNEV6RgOHUTMzp0A==",
+  "dgSpecHash": "mdyu+WNC1rdfatMAjBjdOz4bfcm3NFlVGRwwFUMJgT4vuJrGR2dX2jChw0seHK9VxslUScBsb2KeDffHbMbxwQ==",
   "success": true,
-  "projectFilePath": "D:\\code\\Asp.Net Core\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj",
+  "projectFilePath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Model\\ZhaoXi.LearnProject.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\38103\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\38103\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

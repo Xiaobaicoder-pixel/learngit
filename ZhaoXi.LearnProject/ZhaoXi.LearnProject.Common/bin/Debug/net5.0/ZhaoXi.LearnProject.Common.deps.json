@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ZhaoXi.LearnProject.Common/1.0.0": {
+        "runtime": {
+          "ZhaoXi.LearnProject.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZhaoXi.LearnProject.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
