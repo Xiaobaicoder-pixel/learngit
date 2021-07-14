@@ -4,14 +4,14 @@
     "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj": {}
   },
   "projects": {
-    "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj": {
+    "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj",
-        "projectName": "ZhaoXi.LearnProject.WebCore",
-        "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj",
+        "projectUniqueName": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj",
+        "projectName": "ZhaoXi.LearnProject.Common",
+        "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj",
         "packagesPath": "C:\\Users\\38103\\.nuget\\packages\\",
-        "outputPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\obj\\",
+        "outputPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,94 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400-preview.21277.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj",
+        "projectName": "ZhaoXi.LearnProject.WebCore",
+        "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj",
+        "packagesPath": "C:\\Users\\38103\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\38103\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://localhost:2021/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj": {
+                "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
