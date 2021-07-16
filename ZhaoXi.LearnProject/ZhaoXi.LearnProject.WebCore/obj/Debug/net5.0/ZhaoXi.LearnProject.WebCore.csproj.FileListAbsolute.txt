@@ -2,14 +2,14 @@ D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bi
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ZhaoXi.LearnProject.WebCore.dll
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ref\ZhaoXi.LearnProject.WebCore.dll
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ZhaoXi.LearnProject.WebCore.pdb
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ZhaoXi.LearnProject.Common.dll
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ZhaoXi.LearnProject.Common.pdb
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.csproj.AssemblyReference.cache
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.GeneratedMSBuildEditorConfig.editorconfig
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.AssemblyInfoInputs.cache
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.AssemblyInfo.cs
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.csproj.CoreCompileInputs.cache
+D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.csproj.CopyComplete
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.dll
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ref\ZhaoXi.LearnProject.WebCore.dll
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.pdb
-D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ZhaoXi.LearnProject.Common.dll
-D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\bin\Debug\net5.0\ZhaoXi.LearnProject.Common.pdb
-D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.WebCore\obj\Debug\net5.0\ZhaoXi.LearnProject.WebCore.csproj.CopyComplete

@@ -316,6 +316,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Microsoft.Extensions.Options": "5.0.0",
           "RabbitMQ.Client": "6.2.2",
           "ZhaoXi.LearnProject.Common": "1.0.0",
           "aliyun-net-sdk-core": "1.5.10"

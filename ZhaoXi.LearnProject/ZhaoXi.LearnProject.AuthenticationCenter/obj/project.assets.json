@@ -84,6 +84,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ZhaoXi.LearnProject.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ZhaoXi.LearnProject.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ZhaoXi.LearnProject.Common.dll": {}
+        }
       }
     }
   },
@@ -221,12 +231,18 @@
         "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ZhaoXi.LearnProject.Common/1.0.0": {
+      "type": "project",
+      "path": "../ZhaoXi.LearnProject.Common/ZhaoXi.LearnProject.Common.csproj",
+      "msbuildProject": "../ZhaoXi.LearnProject.Common/ZhaoXi.LearnProject.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Newtonsoft.Json >= 13.0.1",
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "Swashbuckle.AspNetCore >= 5.6.3",
+      "ZhaoXi.LearnProject.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -260,7 +276,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj": {
+              "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
