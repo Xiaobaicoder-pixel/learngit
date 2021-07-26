@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KbrY9zDIHzIXgnSMJSEbAgM7PQUpA9EjPsMVG8cfkTKcg/NAioWdRfsMicMrmZ7xTN853wwBJuY9ZUEnF3fjTA==",
+  "dgSpecHash": "+IoTTxRFFK+hNLFExKH5U9/Bd+SCQfX/rtZw4HYEdVcpGfiWnf7pBXKiBiU+iHHmeUEBBRv7jFNB+mhPynkl/Q==",
   "success": true,
   "projectFilePath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.UserMicroservice\\ZhaoXi.LearnProject.UserMicroservice.csproj",
   "expectedPackageFiles": [
@@ -182,7 +182,8 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath\\4.3.0\\system.xml.xpath.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xpath.xdocument\\4.3.0\\system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\38103\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
   ],
   "logs": []
 }

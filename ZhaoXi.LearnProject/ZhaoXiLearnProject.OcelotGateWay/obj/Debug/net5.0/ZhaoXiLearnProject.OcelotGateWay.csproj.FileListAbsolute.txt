@@ -66,7 +66,6 @@ D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateW
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\ZhaoXiLearnProject.OcelotGateWay.MvcApplicationPartsAssemblyInfo.cs
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\ZhaoXiLearnProject.OcelotGateWay.MvcApplicationPartsAssemblyInfo.cache
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\staticwebassets\ZhaoXiLearnProject.OcelotGateWay.StaticWebAssets.Manifest.cache
-D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\staticwebassets\ZhaoXiLearnProject.OcelotGateWay.StaticWebAssets.xml
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\scopedcss\bundle\ZhaoXiLearnProject.OcelotGateWay.styles.css
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\ZhaoXiLearnProject.OcelotGateWay.RazorTargetAssemblyInfo.cache
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXiLearnProject.OcelotGateWay\obj\Debug\net5.0\ZhaoXiLearnProject.OcelotGateWay.csproj.CopyComplete

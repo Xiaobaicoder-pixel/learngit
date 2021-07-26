@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5qpe4zJlao+EoHt6KYhuYtPbpVJ1yPXbG1w7C9kfkapcEuzMAkkI7eD83w2eYj8OBhc4hyTn77e1BdMV8eVwkw==",
+  "dgSpecHash": "12Ea6smDEDWMWI7d+EIZh4b6g5nhNmsUll/Vq9yUK8ZOWVk2gni7eknBjIbG0NqHtpTyg/j+6CGR443nbybnjQ==",
   "success": true,
   "projectFilePath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.GoodsMicroservice\\ZhaoXi.LearnProject.GoodsMicroservice.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\38103\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
   ],
   "logs": []
 }

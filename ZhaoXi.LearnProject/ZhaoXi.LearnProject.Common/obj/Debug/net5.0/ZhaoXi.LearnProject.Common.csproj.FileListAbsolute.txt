@@ -9,4 +9,3 @@ D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Common\obj
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Common\obj\Debug\net5.0\ZhaoXi.LearnProject.Common.dll
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Common\obj\Debug\net5.0\ref\ZhaoXi.LearnProject.Common.dll
 D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Common\obj\Debug\net5.0\ZhaoXi.LearnProject.Common.pdb
-D:\code\Asp.Net Core\learngit\ZhaoXi.LearnProject\ZhaoXi.LearnProject.Common\obj\Debug\net5.0\ZhaoXi.LearnProject.Common.csproj.AssemblyReference.cache

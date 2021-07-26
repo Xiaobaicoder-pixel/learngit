@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "e2qG1L/egLqn9eXg3hpFllaD6pubfqHOc+ufa91NwkRDX3MDagCBv8QhCtK/YZ8dvEuqNWScKSD+KqLjKNf2hA==",
+  "dgSpecHash": "5O1VIGUFoyXrHB5C7pME3gbxxlFyrWfNW1//OMa9wVbSowOmxOcjrVmOBO+An7FYvGCIPe/Symr+jei4oVXNkA==",
   "success": true,
   "projectFilePath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXiLearnProject.OcelotGateWay\\ZhaoXiLearnProject.OcelotGateWay.csproj",
   "expectedPackageFiles": [
@@ -20,7 +20,8 @@
     "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
     "C:\\Users\\38103\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\38103\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+    "C:\\Users\\38103\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\38103\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
   ],
   "logs": []
 }

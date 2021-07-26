@@ -1,7 +1,7 @@
 //*****************************单地址********************************
 {
   "Routes": [
-    {
+       {
       "UpstreamPathTemplate": "/api/auth/{url}", //上游请求地址--网关
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete", "Options" ],
       "DownstreamHostAndPorts": [

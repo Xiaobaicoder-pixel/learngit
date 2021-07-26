@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "http://localhost:2021/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -34,6 +35,9 @@
             "projectReferences": {
               "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj": {
                 "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj"
+              },
+              "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj": {
+                "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj"
               }
             }
           }
@@ -48,6 +52,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
@@ -55,6 +63,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.12.0, )"
             }
           },
           "imports": [
@@ -67,6 +79,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.7, 5.0.7]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -75,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400-preview.21277.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -100,6 +118,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "http://localhost:2021/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -133,7 +152,96 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400-preview.21277.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj",
+        "projectName": "ZhaoXi.LearnProject.WebCore",
+        "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\ZhaoXi.LearnProject.WebCore.csproj",
+        "packagesPath": "C:\\Users\\38103\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.WebCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\38103\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "http://localhost:2021/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj": {
+                "projectPath": "D:\\code\\Asp.Net Core\\learngit\\ZhaoXi.LearnProject\\ZhaoXi.LearnProject.Common\\ZhaoXi.LearnProject.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.6.21355.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
